@@ -181,6 +181,7 @@ for(最初に一回だけ実行される文;制御式(whileと同じ);for文の�
 }
 ```  
 また、for文をwhile文で書き換えることもできます。  
+```c
 #include<stdio.h>
 int main(){
   int i;
